@@ -1,3 +1,2 @@
-# Go-Calculator
+# Pequenos projetos para aprender GoLang
 
-Pequeno projeto de Calculadora em GoLang
