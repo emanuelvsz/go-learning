@@ -1,2 +1,2 @@
-# Pequenos projetos para aprender GoLang
+# Projetos para aprender GoLang
 
